@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650">
+  <rect width="1200" height="650" rx="42" fill="#ecfdf5"/>
+  <circle cx="980" cy="130" r="150" fill="#d1fae5"/>
+  <circle cx="190" cy="520" r="190" fill="#dcfce7"/>
+  <g transform="translate(300 105) rotate(-8 300 220)" stroke="#0f172a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <ellipse cx="355" cy="270" rx="230" ry="120" fill="#92400e"/>
+    <ellipse cx="165" cy="250" rx="105" ry="82" fill="#a16207"/>
+    <circle cx="105" cy="235" r="52" fill="#78350f"/>
+    <circle cx="87" cy="222" r="8" fill="#fff" stroke="none"/>
+    <path d="M90 270 Q45 340 20 405"/>
+    <path d="M145 292 Q100 385 65 455"/>
+    <path d="M205 305 Q175 405 150 485"/>
+    <path d="M445 305 Q520 380 575 445"/>
+    <path d="M500 275 Q600 325 700 350"/>
+    <path d="M510 235 Q625 230 720 180"/>
+    <path d="M95 195 Q35 105 -15 65"/>
+    <path d="M125 188 Q90 85 55 15"/>
+    <path d="M140 190 Q180 105 205 25"/>
+  </g>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#064e3b">Jangkrik Alam</text>
+  <text x="82" y="155" font-family="Arial, sans-serif" font-size="23" font-weight="600" fill="#475569">Ilustrasi visual untuk materi Jangkrik.OS</text>
+</svg>

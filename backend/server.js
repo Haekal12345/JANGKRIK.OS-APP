@@ -25,6 +25,9 @@ const db = mysql.createPool({
   queueLimit: 0,
   enableKeepAlive: true, // WAJIB UNTUK VERCEL SERVERLESS
   keepAliveInitialDelay: 10000,
+  ssl: {
+    rejectUnauthorized: false,
+  },
 });
 
 // Menggunakan getConnection karena kita memakai Pool
